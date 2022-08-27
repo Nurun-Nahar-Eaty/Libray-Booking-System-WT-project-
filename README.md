@@ -1,2 +1,2 @@
 # Libray-Booking-System-WT-project-
-Web Technology Lab Project (ICE3201)
+Web Technology Lab Project (ICE3210)
